@@ -14,4 +14,7 @@
 * 
 <br>
 <br> </p>
-
+<br>
+<br>
+<p></p><h6>Support email</h6><br>
+<gridoku-se@outlook.com></p>
