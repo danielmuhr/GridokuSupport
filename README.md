@@ -17,4 +17,4 @@
 <br>
 <br>
 <p></p><h6>Support email</h6>
-<a href="gridoku-se@outlook.com&subject=Mail to Groduko support">Gridoku Support Email</a></p>
+<a href="mailto:gridoku-se@outlook.com">Gridoku Support Email</a></p>
