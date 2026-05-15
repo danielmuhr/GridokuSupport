@@ -20,5 +20,6 @@
 <h6>Support email</h6>
 <h6><a href="mailto:gridoku-se@outlook.com">Gridoku Support Email</a></h6>
 
-<h6><a href="/privacypolicy.md/">Privacy policy</a></h6>
+###### [Privacy Policy](./privacypolicy)
+
 
