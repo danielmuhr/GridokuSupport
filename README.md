@@ -14,7 +14,11 @@
 * 
 <br>
 <br> </p>
+
 <br>
 <br>
 <h6>Support email</h6>
-<a href="mailto:gridoku-se@outlook.com">Gridoku Support Email</a>
+<h6><a href="mailto:gridoku-se@outlook.com">Gridoku Support Email</a></h6>
+
+<h6><a href="/privacypolicy/">Privacy policy</a></h6>
+
